@@ -16,3 +16,11 @@ Me encanta asegurar que el software cumple los más altos estándares. Actualmen
 - 📍 Madrid, España  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/m4r14n3l0/)  
 - 🧪 Intereses: Ciencia • QA • Ética hacker • Forense • Desarrollo
+
+---
+
+### 🧰 Toolbox (mi caja de herramientas)  
+**Dev / QA:** Java · Python · C# · Git · HTML · CSS · JavaScript · Postman  
+**Red Team / Pentesting:** nmap · dirsearch · Metasploit · Burp Suite · John the Ripper
+<!-- **OSINT / Forense:** Shodan · Sherlock  -->
+**Sistemas Operativos:** Kali Linux · Windows · macOS
