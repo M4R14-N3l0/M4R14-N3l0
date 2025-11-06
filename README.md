@@ -19,27 +19,34 @@ Me encanta asegurar que el software cumple los más altos estándares. Actualmen
 
 ---
 
-### 🧰 Toolbox (mi caja de herramientas)  
-**Dev / QA:** Java · Python · C# · Git · HTML · CSS · JavaScript · Postman  
-**Red Team / Pentesting:** nmap · dirsearch · Metasploit · Burp Suite · John the Ripper
-<!-- **OSINT / Forense:** Shodan · Sherlock  -->
-**Sistemas Operativos:** Kali Linux · Windows · macOS
-
 ### 🧰 Toolbox
 
-<!-- Badges estilo "for-the-badge" -->
+<!-- Dev / QA -->
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c%23&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
+<!-- Red Team / Pentesting -->
 <p>
   <img src="https://img.shields.io/badge/nmap-6DB33F?style=for-the-badge&logo=nmap&logoColor=white" alt="nmap" />
-  <img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp" />
-  <img src="https://img.shields.io/badge/Shodan-0b3b6f?style=for-the-badge&logo=shodan&logoColor=white" alt="Shodan" />
-  <img src="https://img.shields.io/badge/Kali-1793D1?style=for-the-badge&logo=kali&logoColor=white" alt="Kali" />
+  <img src="https://img.shields.io/badge/dirsearch-FF7B00?style=for-the-badge&logo=terminals?&logoColor=white" alt="dirsearch" />
+  <img src="https://img.shields.io/badge/Metasploit-7E57C2?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/John_the_Ripper-555555?style=for-the-badge&logo=keybase&logoColor=white" alt="John the Ripper" />
+</p>
+
+<!-- Sistemas Operativos -->
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-1793D1?style=for-the-badge&logo=kali&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
 </p>
 
 ---
