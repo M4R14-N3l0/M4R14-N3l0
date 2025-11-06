@@ -29,7 +29,7 @@ Me encanta asegurar que el software cumple los más altos estándares. Actualmen
 
 ### 🗂️ Proyectos destacados  
 - **[M4R14-N3l0](https://github.com/M4R14-N3l0/M4R14-N3l0)** — Mi perfil.  
-- **[Nombre-Proyecto-2](https://github.com/M4R14-N3l0/My-Manga-Collection)** — Mi proyecto final de DAM, mi primera app oficial.
-- **[Nombre-Proyecto-3](https://github.com/M4R14-N3l0/POUR)** — Web estática accesible, un proyecto de accesibilidad.
+- **My-Manga-Collection](https://github.com/M4R14-N3l0/My-Manga-Collection)** — Mi proyecto final de DAM, mi primera app oficial.
+- **[POUR](https://github.com/M4R14-N3l0/POUR)** — Web estática accesible, un proyecto de accesibilidad.
 
 ---
