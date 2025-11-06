@@ -47,4 +47,7 @@ Me encanta asegurar que el software cumple los más altos estándares. Actualmen
  <img src="https://streak-stats.demolab.com?user=M4R14-N3l0&theme=dracula" alt="Streak stats" />
 </p>
 
+### 🌐 Encuéntrame  
+[LinkedIn](https://www.linkedin.com/in/m4r14n3l0/)
+
 
