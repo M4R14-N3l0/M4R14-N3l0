@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!-- Banner opcional -->
+<!-- Banner -->
 <p align="center">
   <img src="banner.png" alt="María Nelo — Cyber & QA" width="100%" />
 </p>
