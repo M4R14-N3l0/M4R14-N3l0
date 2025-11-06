@@ -24,3 +24,12 @@ Me encanta asegurar que el software cumple los más altos estándares. Actualmen
 **Red Team / Pentesting:** nmap · dirsearch · Metasploit · Burp Suite · John the Ripper
 <!-- **OSINT / Forense:** Shodan · Sherlock  -->
 **Sistemas Operativos:** Kali Linux · Windows · macOS
+
+---
+
+### 🗂️ Proyectos destacados  
+- **[M4R14-N3l0](https://github.com/M4R14-N3l0/M4R14-N3l0)** — Mi perfil.  
+- **[Nombre-Proyecto-2](https://github.com/M4R14-N3l0/My-Manga-Collection)** — Mi proyecto final de DAM, mi primera app oficial.
+- **[Nombre-Proyecto-3](https://github.com/M4R14-N3l0/POUR)** — Web estática accesible, un proyecto de accesibilidad.
+
+---
