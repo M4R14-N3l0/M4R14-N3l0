@@ -44,7 +44,8 @@ Me encanta asegurar que el software cumple los más altos estándares. Actualmen
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=M4R14-N3l0" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=M4R14-N3l0&show_icons=true&theme=dracula" alt="GitHub stats" />
 </p>
+
 
 
