@@ -19,15 +19,28 @@ Me encanta asegurar que el software cumple los más altos estándares. Actualmen
 
 ---
 
-<div align="left" style="background:#1e1e1e; color:#ffffff; border-radius:8px; padding:16px;">
-
 ### 🧰 Toolbox (mi caja de herramientas)  
 **Dev / QA:** Java · Python · C# · Git · HTML · CSS · JavaScript · Postman  
 **Red Team / Pentesting:** nmap · dirsearch · Metasploit · Burp Suite · John the Ripper
 <!-- **OSINT / Forense:** Shodan · Sherlock  -->
 **Sistemas Operativos:** Kali Linux · Windows · macOS
 
-</div>
+### 🧰 Toolbox
+
+<!-- Badges estilo "for-the-badge" -->
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c%23&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/nmap-6DB33F?style=for-the-badge&logo=nmap&logoColor=white" alt="nmap" />
+  <img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp" />
+  <img src="https://img.shields.io/badge/Shodan-0b3b6f?style=for-the-badge&logo=shodan&logoColor=white" alt="Shodan" />
+  <img src="https://img.shields.io/badge/Kali-1793D1?style=for-the-badge&logo=kali&logoColor=white" alt="Kali" />
+</p>
 
 ---
 
