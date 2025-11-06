@@ -44,5 +44,5 @@ Me encanta asegurar que el software cumple los más altos estándares. Actualmen
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=octocat&theme=dracula" alt="Streak Stats Ejemplo" />
+  <img src="https://streak-stats.demolab.com?user=M4R14-N3l0&theme=dracula" alt="Streak Stats" />
 </p>
