@@ -43,9 +43,8 @@ Me encanta asegurar que el software cumple los más altos estándares. Actualmen
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4R14-N3l0&layout=compact&theme=dracula" alt="Top languages" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=M4R14-N3l0&show_icons=true&theme=dracula" alt="GitHub stats" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M4R14-N3l0&theme=dracula" alt="Streak stats" />
 </p>
-
 
 
